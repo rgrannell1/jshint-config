@@ -17,6 +17,7 @@
 	"asi":           true,
 	"funcscope":     true,
 	"shadow":        true,
+	"esnext":        true,
 
 	"maxerr":        1000,
 	"node": true
